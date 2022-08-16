@@ -1,4 +1,4 @@
-# sortingAlgo
+# Sorting_Algo
 This Tutorial help to How To Sorte Linked List Using Five Sorting Algorithm.
 public void sortList() {  
         Node current = null, index = null;  
